@@ -9,3 +9,5 @@
 
 ## Overview
 ...
+
+![](garden-generator-screenshot.png)
