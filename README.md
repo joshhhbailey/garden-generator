@@ -5,9 +5,11 @@
 *2020 - 2021.*<br />
 
 ## Contents
-1. [Overview](#overview)
+- [Garden Generator](#garden-generator)
+  - [Contents](#contents)
+  - [Overview](#overview)
 
 ## Overview
-...
+Creating a Houdini Digital Asset (HDA) with the purpose of generating procedural garden models.
 
 ![](garden-generator-screenshot.png)
